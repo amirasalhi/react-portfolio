@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d8328f40.css",
-    "main.js": "/react-portfolio/static/js/main.43dd3841.js",
-    "static/js/453.2a71d08d.chunk.js": "/react-portfolio/static/js/453.2a71d08d.chunk.js",
+    "main.js": "/react-portfolio/static/js/main.79ac83bc.js",
+    "static/js/453.c25f43ab.chunk.js": "/react-portfolio/static/js/453.c25f43ab.chunk.js",
     "static/media/Rajdhani-Regular.ttf": "/react-portfolio/static/media/Rajdhani-Regular.148606c1eb703f6e597a.ttf",
     "static/media/Cv_AMIRA_FRONT_PORTFOLIO.pdf": "/react-portfolio/static/media/Cv_AMIRA_FRONT_PORTFOLIO.0e0010d65e8ef324f4aa.pdf",
     "index.html": "/react-portfolio/index.html",
     "main.d8328f40.css.map": "/react-portfolio/static/css/main.d8328f40.css.map",
-    "main.43dd3841.js.map": "/react-portfolio/static/js/main.43dd3841.js.map",
-    "453.2a71d08d.chunk.js.map": "/react-portfolio/static/js/453.2a71d08d.chunk.js.map"
+    "main.79ac83bc.js.map": "/react-portfolio/static/js/main.79ac83bc.js.map",
+    "453.c25f43ab.chunk.js.map": "/react-portfolio/static/js/453.c25f43ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8328f40.css",
-    "static/js/main.43dd3841.js"
+    "static/js/main.79ac83bc.js"
   ]
 }
