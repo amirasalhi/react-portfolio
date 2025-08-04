@@ -18,8 +18,8 @@ function Projects() {
 			</article>
 			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Blog">
 			  <h3>Mon Portfolio</h3>
-			  <p>Site vitrine responsive développé en HTML5, CSS3 et JavaScript.Design moderne et animations douces. Ce site vous montre justement ce que je sais faire ! </p>
-			  <a className="btn-secondary" href="https://amirasalhi.github.io/portfolio/">Voir plus</a>
+			  <p> Un site portfolio responsive réalisé avec React, présentant mes projets, compétences et expériences. L’interface met en avant une navigation fluide, des animations, et une section dynamique pour les projets. </p>
+			  <a className="btn-secondary" href="https://amirasalhi.github.io/react-portfolio/">Voir plus</a>
 			</article>
 		  </div>
 		</section>
