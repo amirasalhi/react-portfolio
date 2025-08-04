@@ -1,5 +1,5 @@
 import React from 'react';
-import CV from '../Cv_AMIRA_FRONT_PORTFOLIO.pdf';
+import CV from '../Cv_AMIRA_FRONT_Portfolio_ReactJS.pdf';
 
 const About = () => {
   return (
