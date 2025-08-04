@@ -14,7 +14,7 @@ function Projects() {
 			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Blog">
 			  <h3>Site de Meteo</h3>
 			  <p>Une application météo simple et responsive permettant d'afficher les conditions climatiques en temps réel pour n’importe quelle ville dans le monde.</p>
-			  <a className="btn-secondary" href="weather/index.html">Voir plus</a>
+			  <a className="btn-secondary" href="../weather/index.html">Voir plus</a>
 			</article>
 			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Blog">
 			  <h3>Mon Portfolio</h3>
