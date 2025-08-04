@@ -7,6 +7,7 @@ import Projects from './components/projects';
 import Contact from './components/contact';
 import Footer from './components/footer';
 import Toast from './components/toast';
+import { Element } from 'react-scroll';
 import './App.css';
 
 function App() {
@@ -52,18 +53,33 @@ function App() {
     return () => observer.disconnect();
   }, []);
 
-  return (
-    <>
-      <Header />
-      <Hero />
+return (
+  <>
+    <Header />
+    <Hero />
+
+    <Element name="about">
       <section className="fade-in"><About /></section>
+    </Element>
+
+    <Element name="skills">
       <section className="fade-in"><Skills /></section>
+    </Element>
+
+    <Element name="projects">
       <section className="fade-in"><Projects /></section>
-      <section className="fade-in"><Contact showToast={showToastMessage} /></section>
-      <Footer />
-      <Toast message={toastMessage} show={showToast} />
-    </>
-  );
+    </Element>
+
+    <Element name="contact">
+      <section className="fade-in">
+        <Contact showToast={showToastMessage} />
+      </section>
+    </Element>
+
+    <Footer />
+    <Toast message={toastMessage} show={showToast} />
+  </>
+);
 }
 
 export default App;
