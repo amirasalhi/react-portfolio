@@ -12,7 +12,7 @@ const Header = () => {
             <Link 
               to="about" 
               smooth={true} 
-              duration={1000} 
+              duration={1200} 
               spy={true} 
               offset={-60}
             >
@@ -23,7 +23,7 @@ const Header = () => {
             <Link 
               to="skills" 
               smooth={true} 
-              duration={1000} 
+              duration={1200} 
               spy={true} 
               offset={-60}
             >
@@ -34,7 +34,7 @@ const Header = () => {
             <Link 
               to="projects" 
               smooth={true} 
-              duration={1000} 
+              duration={1200} 
               spy={true} 
               offset={-60}
             >
@@ -45,7 +45,7 @@ const Header = () => {
             <Link 
               to="contact" 
               smooth={true} 
-              duration={1000} 
+              duration={1200} 
               spy={true} 
               offset={-60}
             >
