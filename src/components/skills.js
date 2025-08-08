@@ -5,6 +5,15 @@ function Skills() {
 		<section id="skills" tabIndex="-1" className="fade-in" aria-label="Compétences techniques">
 		  <h2>Compétences</h2>
 		  <div className="skills-grid" role="list">
+			<article className="skill" role="listitem" tabIndex="0" aria-label="seo">
+			  <span className="skill-icon" aria-hidden="true"><img src="images/react.png"/></span>
+			  <h3>React</h3>
+			</article>
+			<article className="skill" role="listitem" tabIndex="0" aria-label="JavaScript">
+			  <span className="skill-icon" aria-hidden="true"><img src="images/js.png"/></span>
+			  <h3>JavaScript</h3>
+
+			</article>
 			<article className="skill" role="listitem" tabIndex="0" aria-label="HTML5">
 			  <span className="skill-icon" aria-hidden="true"><img src="images/html5.png"/></span>
 			  <h3>HTML5</h3>
@@ -15,16 +24,8 @@ function Skills() {
 			  <h3>CSS3</h3>
 
 			</article>
-			<article className="skill" role="listitem" tabIndex="0" aria-label="JavaScript">
-			  <span className="skill-icon" aria-hidden="true"><img src="images/js.png"/></span>
-			  <h3>JavaScript</h3>
 
-			</article>
-			<article className="skill" role="listitem" tabIndex="0" aria-label="seo">
-			  <span className="skill-icon" aria-hidden="true"><img src="images/react.png"/></span>
-			  <h3>React</h3>
-			</article>
-
+		
 			<article className="skill" role="listitem" tabIndex="0" aria-label="Git">
 			  <span className="skill-icon" aria-hidden="true"><img src="images/github.png"/></span>
 			  <h3>Git</h3>
