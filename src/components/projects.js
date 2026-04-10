@@ -15,7 +15,7 @@ Interface fluide avec correction instantanée, démontrant mes compétences en d
 			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Portfolio">
 			  <h3>Mon Portfolio</h3>
 			  <p>En React js : Un site portfolio responsive réalisé avec React, présentant mes projets, compétences et expériences. L’interface met en avant une navigation fluide, des animations, et une section dynamique pour les projets. </p>
-			  <a className="btn-secondary" href="https://amirasalhi.github.io/react-portfolio/">Voir le projet</a>
+			  <a className="btn-secondary" href="https://amiraportfoliofrontend.netlify.app/">Voir le projet</a>
 			</article>
 			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Meteo">
 			  <h3>Site de Meteo</h3>
