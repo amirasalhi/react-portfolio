@@ -43,7 +43,7 @@ function Skills() {
 			</article>
 					
 			<article className="skill" role="listitem" tabIndex="0" aria-label="ps">
-			  <span className="skill-icon" aria-hidden="true"><img src="public/images/ps.png" alt=""/></span>
+			  <span className="skill-icon" aria-hidden="true"><img src="images/ps.png" alt=""/></span>
 			  <h3>PhotoShop</h3>
 			</article>
 		
