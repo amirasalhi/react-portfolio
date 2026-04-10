@@ -1,10 +1,11 @@
 // ParticlesHero.jsx
 import { useEffect, useRef } from "react";
 
+
 const ParticlesHero = () => {
   const canvasRef = useRef(null);
   const maxParticles = 80;
-  let particlesArray = [];
+ const particlesArray = useRef([]);
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -16,7 +17,7 @@ const ParticlesHero = () => {
     }
 
     function initParticles() {
-      particlesArray = [];
+      particlesArray.current = [];
       for (let i = 0; i < maxParticles; i++) {
         particlesArray.push({
           x: Math.random() * canvas.width,

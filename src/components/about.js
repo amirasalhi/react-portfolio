@@ -10,7 +10,7 @@ const About = () => {
 Ma démarche : allier esthétique, performance et accessibilité, en respectant les bonnes pratiques du développement moderne (HTML5, CSS3, JavaScript, animations, UI/UX).
 Ce portfolio reflète mon style, mes compétences et ma volonté constante de progresser à travers des projets concrets et engageants.
       </p>
-      <a href={CV} className="btn-cv" download target="_blank">📄 Télécharger mon CV</a>
+      <a href={CV} className="btn-cv" download target="_blank" rel="noreferrer">📄 Télécharger mon CV</a>
     </section>
   );
 };
