@@ -19,7 +19,7 @@ const ParticlesHero = () => {
     function initParticles() {
       particlesArray.current = [];
       for (let i = 0; i < maxParticles; i++) {
-        particlesArray.push({
+        particlesArray.current.push({
           x: Math.random() * canvas.width,
           y: Math.random() * canvas.height,
           radius: Math.random() * 2 + 0.5,
@@ -32,7 +32,7 @@ const ParticlesHero = () => {
 
     function drawParticles() {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
-      particlesArray.forEach((p) => {
+      particlesArray.current.forEach((p) => {
         ctx.beginPath();
         ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
         ctx.fillStyle = `rgba(209, 79, 255, ${p.opacity})`;
