@@ -17,11 +17,6 @@ Interface fluide avec correction instantanée, démontrant mes compétences en d
 			  <p>En React js : Un site portfolio responsive réalisé avec React, présentant mes projets, compétences et expériences. L’interface met en avant une navigation fluide, des animations, et une section dynamique pour les projets. </p>
 			  <a className="btn-secondary" href="https://amiraportfoliofrontend.netlify.app/">Voir le projet</a>
 			</article>
-			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Meteo">
-			  <h3>Site de Meteo</h3>
-			  <p>En React js : Une application météo simple et responsive permettant d'afficher les conditions climatiques en temps réel pour n’importe quelle ville dans le monde.</p>
-			  <a className="btn-secondary" href="/react-portfolio/weather/">Voir le projet</a>
-			</article>
 			<article className="project-card" role="listitem" tabIndex="0" aria-label="Projet Confessions">
 			  <h3>Site de confessions</h3>
 			  <p>Création d’un site responsive pour un particulier, avec animations CSS et optimisation SEO.</p>
