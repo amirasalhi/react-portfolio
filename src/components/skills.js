@@ -54,17 +54,11 @@ function Skills() {
 			<article className="skill" role="listitem" tabIndex="0" aria-label="figma">
 			  <span className="skill-icon" aria-hidden="true"><img src="images/figma.png" alt=""/></span>
 			  <h3>Figma</h3>
-			</article>
-			<article className="skill" role="listitem" tabIndex="0" aria-label="figma">
-			  <span className="skill-icon" aria-hidden="true"><img src="images/figma.png" alt=""/></span>
-			  <h3>Figma</h3>
-			</article>
-					
+			</article>		
 			<article className="skill" role="listitem" tabIndex="0" aria-label="ps">
 			  <span className="skill-icon" aria-hidden="true"><img src="images/ps.png" alt=""/></span>
 			  <h3>PhotoShop</h3>
 			</article>
-		
 		  </div>
 		</section>
   );
