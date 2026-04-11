@@ -21,6 +21,10 @@ function Skills() {
 			  <span className="skill-icon" aria-hidden="true"><img src="images/es6.png" alt=""/></span>
 			  <h3>ES6+</h3>
 			</article>
+			<article className="skill" role="listitem" tabIndex="0" aria-label="ps">
+			  <span className="skill-icon" aria-hidden="true"><img src="images/typescript.png" alt=""/></span>
+			  <h3>TypeScript</h3>
+			</article>
 			<article className="skill" role="listitem" tabIndex="0" aria-label="HTML5">
 			  <span className="skill-icon" aria-hidden="true"><img src="images/html5.png" alt=""/></span>
 			  <h3>HTML5</h3>
