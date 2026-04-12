@@ -9,7 +9,7 @@ function Hero() {
         <h1>
           AMIRA <span>Ingénieur FRONT END</span>
         </h1>
-        <p>Code propre, design soigné, motivation sans limite.</p>
+        <p>Code propre et réutilisable, design soigné, motivation sans limite.</p>
         <button
           className="btn-primary"
           onClick={() =>
