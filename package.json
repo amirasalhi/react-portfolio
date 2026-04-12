@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://amirasalhi.github.io/react-portfolio",
-   "dependencies": {
+  "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "cross-env CI=false react-scripts build"
-    },
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -38,7 +38,6 @@
     ]
   },
   "devDependencies": {
-    "cross-env": "^10.1.0",
-    "gh-pages": "^6.3.0"
+    "cross-env": "^10.1.0"
   }
 }
