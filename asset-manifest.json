@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a066f3cf.css",
-    "main.js": "/static/js/main.a854d3a9.js",
-    "static/js/453.c25f43ab.chunk.js": "/static/js/453.c25f43ab.chunk.js",
-    "static/media/Rajdhani-Regular.ttf": "/static/media/Rajdhani-Regular.148606c1eb703f6e597a.ttf",
-    "static/media/Cv_AMIRA_FRONT_Portfolio_ReactJS.pdf": "/static/media/Cv_AMIRA_FRONT_Portfolio_ReactJS.3cc05791f596979b61e7.pdf",
-    "index.html": "/index.html",
-    "main.a066f3cf.css.map": "/static/css/main.a066f3cf.css.map",
-    "main.a854d3a9.js.map": "/static/js/main.a854d3a9.js.map",
-    "453.c25f43ab.chunk.js.map": "/static/js/453.c25f43ab.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.e84a687c.css",
+    "main.js": "/react-portfolio/static/js/main.37650f1c.js",
+    "static/js/453.c25f43ab.chunk.js": "/react-portfolio/static/js/453.c25f43ab.chunk.js",
+    "static/media/Rajdhani-Regular.ttf": "/react-portfolio/static/media/Rajdhani-Regular.148606c1eb703f6e597a.ttf",
+    "static/media/Cv_AMIRA_FRONT_Portfolio_ReactJS.pdf": "/react-portfolio/static/media/Cv_AMIRA_FRONT_Portfolio_ReactJS.3cc05791f596979b61e7.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.e84a687c.css.map": "/react-portfolio/static/css/main.e84a687c.css.map",
+    "main.37650f1c.js.map": "/react-portfolio/static/js/main.37650f1c.js.map",
+    "453.c25f43ab.chunk.js.map": "/react-portfolio/static/js/453.c25f43ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a066f3cf.css",
-    "static/js/main.a854d3a9.js"
+    "static/css/main.e84a687c.css",
+    "static/js/main.37650f1c.js"
   ]
 }
